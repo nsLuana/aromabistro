@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -2007,6 +2007,12 @@
             },
             ".mbr-section-title": {
               "color": "#fd8244"
+            },
+            ".card-title": {
+              "color": "#864b4b"
+            },
+            "P": {
+              "text-align": "center"
             }
           },
           "_name": "features8",
